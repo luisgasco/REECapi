@@ -6,7 +6,7 @@ setuptools.setup(
     version="0.0.1",
     author="Luis Gascó",
     author_email="luisgascosanchez@gmail.com",
-    description="Crawer for the 'Registro Español de Estudios Clínicos'",
+    description="Library to access to the data offered by the 'Registro Español de Estudios Clínicos'",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/luisgasco/REECapi/",
