@@ -22,6 +22,10 @@ pip install reecapi
 ```
 
 ## Usage
+Before using it, you must import the library module with the functions of interest:
+```python
+from reecapi.getters import *
+```
 The library has 4 functions to access the records of REEC:
 
  1. **get_trials_list(from_date, to_date = None, format = "json")** :Extract all the trials published in REec or those that meet the criteria defined in the search parameters with the function:
