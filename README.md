@@ -2,7 +2,9 @@
 
 <!-- badges: start -->
 <img src="https://img.shields.io/github/release/luisgasco/reecapi.svg?style=flat">
+
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/reecapi?color=red)
+
 <a href="https://saythanks.io/to/luisgasco">
   <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg"">
 </a>
