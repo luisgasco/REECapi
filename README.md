@@ -7,20 +7,6 @@ data offered by [Registro Español de Estudios Clínicos](https://reec.aemps.es/
 [REST API](https://sede.aemps.gob.es/docs/Manual-Interaccion-REEC-Servicio-Extraccion-Datos-v1.pdf).
 
 
-  <a>
-     <img src="https://img.shields.io/github/release/luisgasco/reecapi.svg?style=flat">
-  </a>
-  <a>
-    <img src="https://img.shields.io/pypi/dm/reecapi?color=red">
-  </a>
-  <a href="https://saythanks.io/to/luisgasco">
-    <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg"">
-  </a>
-  <a href="https://paypal.me/luisgasco?locale.x=es_ES">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
-
-
 > REEC does not offer any support for this library, which has been developed individually by the author from the documentation shown by [REEC on its web site](https://sede.aemps.gob.es/docs/Manual-Interaccion-REEC-Servicio-Extraccion-Datos-v1.pdf). 
 
 ## Installation
@@ -95,3 +81,10 @@ MIT License
 > [@luisgasco](https://twitter.com/luisgasco) · Facebook: [Luis Gascó
 > Sánchez
 > page](https://www.facebook.com/Luis-Gasco-Sanchez-165003227504667)
+
+  <a href="https://saythanks.io/to/luisgasco">
+    <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg"">
+  </a>
+  <a href="https://paypal.me/luisgasco?locale.x=es_ES">
+    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
+  </a>
