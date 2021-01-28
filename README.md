@@ -82,9 +82,6 @@ MIT License
 > Sánchez
 > page](https://www.facebook.com/Luis-Gasco-Sanchez-165003227504667)
 
-  <a href="https://saythanks.io/to/luisgasco">
-    <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg"">
-  </a>
   <a href="https://paypal.me/luisgasco?locale.x=es_ES">
     <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
   </a>
